@@ -1,0 +1,5 @@
+{
+  "git.enabled": true,
+  "git.terminalGitEditor": true,
+  "git.path": "C:\\Program Files\\Git\\bin\\git.exe"
+}
